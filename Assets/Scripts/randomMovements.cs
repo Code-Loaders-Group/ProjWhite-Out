@@ -4,43 +4,29 @@ using UnityEngine;
 
 public class randomMovements : MonoBehaviour
 {
- void Start ()
-    {
-        initialPosition = transform.position;
-        direction = -1;
-        maxDist += transform.position.x;
-        minDist -= transform.position.x;
-    }
-   
-    // Update is called once per frame
-    void Update ()
-    {
-        switch (direction)
-        {
-             case -1:
-                // Moving Left
-                if( transform.position.x > minDist)
-                    {
-                       GetComponent <Rigidbody2D>().velocity = new Vector2(-movingSpeed,GetComponent<Rigidbody2D>().velocity.y);
-                    }
-                else
-                    {
-                       direction = 1;
-                    }
-                break;
-             case 1:
-                  //Moving Right
-                if(transform.position.x < maxDist)
-                    {
-                        GetComponent <Rigidbody2D>().velocity = new Vector2(movingSpeed,GetComponent<Rigidbody2D>().velocity.y);
-                    }
-                else
-                    {
-                        direction = -1;
-                    }
-            break;
-        }
-    }
+  public Transform target;
+     public float speed = 3f;
+ 
+ 
+     void Start () {
+         
+     }
+ 
+     void Update(){
+         
+         
+         transform.LookAt(target.position);
+         transform.Rotate(new Vector3(0,-90,0),Space.Self);
+         
+         
+       
+         if (Vector3.Distance(transform.position,target.position)>1f){
+             transform.Translate(new Vector3(speed* Time.deltaTime,0,0) );
+         }
+ 
+     }
+ 
+ }
  
 }
 
