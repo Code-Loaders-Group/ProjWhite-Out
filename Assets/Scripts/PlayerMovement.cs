@@ -20,7 +20,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        
+
         horizontal = Input.GetAxisRaw("Horizontal");
         vertical = Input.GetAxisRaw("Vertical");
         Vector2 movement = new Vector2(horizontal, vertical);
@@ -28,7 +28,12 @@ public class PlayerMovement : MonoBehaviour
 
         animator.SetFloat("Horizontal", horizontal);
         animator.SetFloat("Vertical", vertical);
-        animator.SetFloat("Speed", movement.sqrMagnitude);
+
+        if (Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1 || Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1)
+        {
+            animator.SetFloat("lastHorizontal", Input.GetAxisRaw("Horizontal"));
+            animator.SetFloat("lastVertical", Input.GetAxisRaw("Vertical"));
+        }
     }
 
     
