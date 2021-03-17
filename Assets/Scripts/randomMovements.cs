@@ -8,11 +8,11 @@ public class randomMovements : MonoBehaviour
    Transform leftWayPoint, rightWayPoint;
    Vector3 localScale;
    bool movingRight = true;
-   RigidBody2D rb;
+   Rigidbody2D rb;
    
  void Start () {
  localScale = transform.localScale;
- rb = GetComponent<RigidBody2D>();
+ rb = GetComponent<Rigidbody2D>();
  leftWayPoint = GameObject.Find("LeftWayPoint").GetComponent<Transform>();
  rightWayPoint = GameObject.Find("RightWayPoint").GetComponent<Transform>();
  
