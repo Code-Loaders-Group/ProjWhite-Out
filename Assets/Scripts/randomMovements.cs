@@ -41,7 +41,6 @@ public class randomMovements : MonoBehaviour
             break;
         }
     }
- }
-}
+ 
 }
 }
