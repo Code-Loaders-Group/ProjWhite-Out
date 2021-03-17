@@ -4,40 +4,43 @@ using UnityEngine;
 
 public class randomMovements : MonoBehaviour
 {
-   float fMinX = 50.0f;
-float fMaxX = 250.0f;
-int Direction = -1;
+ void Start ()
+    {
+        initialPosition = transform.position;
+        direction = -1;
+        maxDist += transform.position.x;
+        minDist -= transform.position.x;
+    }
+   
+    // Update is called once per frame
+    void Update ()
+    {
+        switch (direction)
+        {
+             case -1:
+                // Moving Left
+                if( transform.position.x > minDist)
+                    {
+                       GetComponent <Rigidbody2D>().velocity = new Vector2(-movingSpeed,GetComponent<Rigidbody2D>().velocity.y);
+                    }
+                else
+                    {
+                       direction = 1;
+                    }
+                break;
+             case 1:
+                  //Moving Right
+                if(transform.position.x < maxDist)
+                    {
+                        GetComponent <Rigidbody2D>().velocity = new Vector2(movingSpeed,GetComponent<Rigidbody2D>().velocity.y);
+                    }
+                else
+                    {
+                        direction = -1;
+                    }
+            break;
+        }
+    }
  
-Update:
- 
-switch( Direction )
-{
-    case -1:
-        // Moving Left
-        if( fEnemyX > fMinX )
-        {
-            fEnemyX -= 1.0f;
-        }
-        else
-        {
-            // Hit left boundary, change direction
-            Direction = 1;
-        }
-        break;
-     
-    case 1:
-        // Moving Right
-        if( fEnemyX < fMaxX )
-        {
-            fEnemyX += 1.0f;
-        }
-        else
-        {
-            // Hit right boundary, change direction
-            Direction = -1;
-        }
-        break;
 }
- 
-sprEnemy.transform.localPosition = new Vector3( fEnemyX , 0.0f , 0.0f );
 }
