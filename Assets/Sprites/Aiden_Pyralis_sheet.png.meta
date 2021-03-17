@@ -1,0 +1,4380 @@
+fileFormatVersion: 2
+guid: 1e4c4ef5415ef0944a4092e17436a373
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6225783260113535823
+    second: FireUp1
+  - first:
+      213: 7034827597636495094
+    second: FireUp2
+  - first:
+      213: 37456430031621863
+    second: FireUp3
+  - first:
+      213: 4204254778726041887
+    second: FireUp4
+  - first:
+      213: 5784572059247549391
+    second: FireUp5
+  - first:
+      213: 6618665824717019975
+    second: FireUp6
+  - first:
+      213: -9120302064423808049
+    second: FireUp7
+  - first:
+      213: -7117505277815758557
+    second: FireLeft1
+  - first:
+      213: 1535411848174307661
+    second: FireLeft2
+  - first:
+      213: -1132104981080800255
+    second: FireLeft3
+  - first:
+      213: 2125711833568455244
+    second: FireLeft4
+  - first:
+      213: -5989791057880032645
+    second: FireLeft5
+  - first:
+      213: 3944271781374245056
+    second: FireLeft6
+  - first:
+      213: 2318014878480264526
+    second: FireLeft7
+  - first:
+      213: -63983833835751289
+    second: FireFront1
+  - first:
+      213: 7240475802829800068
+    second: FireFront2
+  - first:
+      213: 7111350459280057790
+    second: FireFront3
+  - first:
+      213: -4862733399188397522
+    second: FireFront4
+  - first:
+      213: -3053688387622685471
+    second: FireFront5
+  - first:
+      213: 3928277464151169428
+    second: FireFront6
+  - first:
+      213: -5778620684222862867
+    second: FireFront7
+  - first:
+      213: -4115861598476127934
+    second: FireRight1
+  - first:
+      213: -2943292219833534855
+    second: FireRight2
+  - first:
+      213: -8974706738661046303
+    second: FireRight3
+  - first:
+      213: 2978712374113244772
+    second: FireRight4
+  - first:
+      213: -6005630669393391020
+    second: FireRight5
+  - first:
+      213: -5679906004068749750
+    second: FireRight6
+  - first:
+      213: 2004175577999319525
+    second: FireRight7
+  - first:
+      213: 7824591384650383324
+    second: Aiden_Pyralis_sheet_28
+  - first:
+      213: -5231144739220658877
+    second: Aiden_Pyralis_sheet_29
+  - first:
+      213: 4750438188253737656
+    second: Aiden_Pyralis_sheet_30
+  - first:
+      213: 5111478449814812014
+    second: Aiden_Pyralis_sheet_31
+  - first:
+      213: 2879811493375807476
+    second: Aiden_Pyralis_sheet_32
+  - first:
+      213: 4328687710584487420
+    second: Aiden_Pyralis_sheet_33
+  - first:
+      213: -110293503998637516
+    second: Aiden_Pyralis_sheet_34
+  - first:
+      213: -540913511718174234
+    second: Aiden_Pyralis_sheet_35
+  - first:
+      213: 4820863620916681371
+    second: Aiden_Pyralis_sheet_36
+  - first:
+      213: -1853802271087555107
+    second: Aiden_Pyralis_sheet_37
+  - first:
+      213: 8252558416647109592
+    second: Aiden_Pyralis_sheet_38
+  - first:
+      213: -6784485271310721181
+    second: Aiden_Pyralis_sheet_39
+  - first:
+      213: 2211860545059594438
+    second: Aiden_Pyralis_sheet_40
+  - first:
+      213: 4726776606519765260
+    second: Aiden_Pyralis_sheet_41
+  - first:
+      213: 3456376400654500662
+    second: Aiden_Pyralis_sheet_42
+  - first:
+      213: 6713381937652693778
+    second: Aiden_Pyralis_sheet_43
+  - first:
+      213: 2522159810370985451
+    second: Aiden_Pyralis_sheet_44
+  - first:
+      213: 8187033959921168347
+    second: Aiden_Pyralis_sheet_45
+  - first:
+      213: 5508869617781361821
+    second: Aiden_Pyralis_sheet_46
+  - first:
+      213: -7984043155513059209
+    second: Aiden_Pyralis_sheet_47
+  - first:
+      213: -4366215137856292709
+    second: Aiden_Pyralis_sheet_48
+  - first:
+      213: -5124799625778169420
+    second: Aiden_Pyralis_sheet_49
+  - first:
+      213: -6059465044210719144
+    second: Aiden_Pyralis_sheet_50
+  - first:
+      213: 1045724896944521250
+    second: Aiden_Pyralis_sheet_51
+  - first:
+      213: 8047618128431190733
+    second: Aiden_Pyralis_sheet_52
+  - first:
+      213: -7190672309612546679
+    second: Aiden_Pyralis_sheet_53
+  - first:
+      213: -6559981084547169573
+    second: Aiden_Pyralis_sheet_54
+  - first:
+      213: -6070798578446138249
+    second: Aiden_Pyralis_sheet_55
+  - first:
+      213: -1360039727419391279
+    second: Aiden_Pyralis_sheet_56
+  - first:
+      213: 7198530453137445078
+    second: Aiden_Pyralis_sheet_57
+  - first:
+      213: -1890984933893676071
+    second: Aiden_Pyralis_sheet_58
+  - first:
+      213: -158474805856863552
+    second: Aiden_Pyralis_sheet_59
+  - first:
+      213: -2622049780417374527
+    second: Aiden_Pyralis_sheet_60
+  - first:
+      213: 5428612975741024777
+    second: Aiden_Pyralis_sheet_61
+  - first:
+      213: 4922082997667810306
+    second: Aiden_Pyralis_sheet_62
+  - first:
+      213: -512170595278536071
+    second: Aiden_Pyralis_sheet_63
+  - first:
+      213: 4725456123670176956
+    second: Aiden_Pyralis_sheet_64
+  - first:
+      213: 478339571852902118
+    second: Aiden_Pyralis_sheet_65
+  - first:
+      213: -7040200056889602561
+    second: Aiden_Pyralis_sheet_66
+  - first:
+      213: -9218092339160911169
+    second: Aiden_Pyralis_sheet_67
+  - first:
+      213: 8218166525829358571
+    second: Aiden_Pyralis_sheet_68
+  - first:
+      213: -2760135895675259463
+    second: Aiden_Pyralis_sheet_69
+  - first:
+      213: -8345918133154785245
+    second: Aiden_Pyralis_sheet_70
+  - first:
+      213: -6236862180149675012
+    second: Aiden_Pyralis_sheet_71
+  - first:
+      213: 1062729400307677002
+    second: Aiden_Pyralis_sheet_72
+  - first:
+      213: 4403758216892427920
+    second: Aiden_Pyralis_sheet_73
+  - first:
+      213: -1261088004237277196
+    second: Aiden_Pyralis_sheet_74
+  - first:
+      213: 8581889132718678133
+    second: Aiden_Pyralis_sheet_75
+  - first:
+      213: 2417302111529788009
+    second: Aiden_Pyralis_sheet_76
+  - first:
+      213: -3933979914188513676
+    second: Aiden_Pyralis_sheet_77
+  - first:
+      213: 4839541418748883949
+    second: Aiden_Pyralis_sheet_78
+  - first:
+      213: -3084211178306848026
+    second: Aiden_Pyralis_sheet_79
+  - first:
+      213: -6407852607053185717
+    second: Aiden_Pyralis_sheet_80
+  - first:
+      213: -7976918914648518695
+    second: Aiden_Pyralis_sheet_81
+  - first:
+      213: -3324580099654557299
+    second: Aiden_Pyralis_sheet_82
+  - first:
+      213: 2125711911550218437
+    second: Aiden_Pyralis_sheet_83
+  - first:
+      213: 7322149455123093286
+    second: Aiden_Pyralis_sheet_84
+  - first:
+      213: -4391376409343142374
+    second: Aiden_Pyralis_sheet_85
+  - first:
+      213: 7757038512810374700
+    second: Aiden_Pyralis_sheet_86
+  - first:
+      213: -2905144261656506284
+    second: Aiden_Pyralis_sheet_87
+  - first:
+      213: -1494171349079068727
+    second: Aiden_Pyralis_sheet_88
+  - first:
+      213: -3038509030774430299
+    second: Aiden_Pyralis_sheet_89
+  - first:
+      213: 4684923902650098043
+    second: Aiden_Pyralis_sheet_90
+  - first:
+      213: -1293934786296461619
+    second: Aiden_Pyralis_sheet_91
+  - first:
+      213: -7635233387032045325
+    second: Aiden_Pyralis_sheet_92
+  - first:
+      213: -6150142641178458883
+    second: Aiden_Pyralis_sheet_93
+  - first:
+      213: 3962620274939995955
+    second: Aiden_Pyralis_sheet_94
+  - first:
+      213: -8851860331425656602
+    second: Aiden_Pyralis_sheet_95
+  - first:
+      213: 7558009289048408884
+    second: Aiden_Pyralis_sheet_96
+  - first:
+      213: 522693712826970587
+    second: Aiden_Pyralis_sheet_97
+  - first:
+      213: -6716797279988330861
+    second: Aiden_Pyralis_sheet_98
+  - first:
+      213: 4421050023756873998
+    second: Aiden_Pyralis_sheet_99
+  - first:
+      213: 988932207653229847
+    second: Aiden_Pyralis_sheet_100
+  - first:
+      213: 2816972309136800263
+    second: Aiden_Pyralis_sheet_101
+  - first:
+      213: -775502688979300284
+    second: Aiden_Pyralis_sheet_102
+  - first:
+      213: -7276529053525970825
+    second: Aiden_Pyralis_sheet_103
+  - first:
+      213: -6563566693586817074
+    second: Aiden_Pyralis_sheet_104
+  - first:
+      213: 3142683662475067695
+    second: Aiden_Pyralis_sheet_105
+  - first:
+      213: 2778669485408653674
+    second: Aiden_Pyralis_sheet_106
+  - first:
+      213: 5520694062496306371
+    second: Aiden_Pyralis_sheet_107
+  - first:
+      213: 188682939995324636
+    second: Aiden_Pyralis_sheet_108
+  - first:
+      213: -6899140395785173539
+    second: Aiden_Pyralis_sheet_109
+  - first:
+      213: 568122526863776677
+    second: Aiden_Pyralis_sheet_110
+  - first:
+      213: 5155332005305343103
+    second: Aiden_Pyralis_sheet_111
+  - first:
+      213: 6337543356468378593
+    second: Aiden_Pyralis_sheet_112
+  - first:
+      213: -8736101156735474274
+    second: Aiden_Pyralis_sheet_113
+  - first:
+      213: -4584913854394958790
+    second: Aiden_Pyralis_sheet_114
+  - first:
+      213: 6205591632345304207
+    second: Aiden_Pyralis_sheet_115
+  - first:
+      213: -8473909902959088157
+    second: Aiden_Pyralis_sheet_116
+  - first:
+      213: 8679105345079930899
+    second: Aiden_Pyralis_sheet_117
+  - first:
+      213: 1452481640605041793
+    second: Aiden_Pyralis_sheet_118
+  - first:
+      213: -9185617951913206062
+    second: Aiden_Pyralis_sheet_119
+  - first:
+      213: -9010234473383309899
+    second: Aiden_Pyralis_sheet_120
+  - first:
+      213: 4103440379479260552
+    second: Aiden_Pyralis_sheet_121
+  - first:
+      213: -2242336435809346380
+    second: Aiden_Pyralis_sheet_122
+  - first:
+      213: -975104314536258164
+    second: Aiden_Pyralis_sheet_123
+  - first:
+      213: -2135231165791406435
+    second: Aiden_Pyralis_sheet_124
+  - first:
+      213: 1694337151185931158
+    second: Aiden_Pyralis_sheet_125
+  - first:
+      213: 6278794144429083722
+    second: Aiden_Pyralis_sheet_126
+  - first:
+      213: 3427670552306430624
+    second: Aiden_Pyralis_sheet_127
+  - first:
+      213: 5570360271648159533
+    second: Aiden_Pyralis_sheet_128
+  - first:
+      213: 6695018340202750429
+    second: Aiden_Pyralis_sheet_129
+  - first:
+      213: 571648602567295543
+    second: Aiden_Pyralis_sheet_130
+  - first:
+      213: 4707362111408426541
+    second: Aiden_Pyralis_sheet_131
+  - first:
+      213: -2830639645548627077
+    second: Aiden_Pyralis_sheet_132
+  - first:
+      213: 1787381134954416624
+    second: Aiden_Pyralis_sheet_133
+  - first:
+      213: -5916742832046504158
+    second: Aiden_Pyralis_sheet_134
+  - first:
+      213: 4575591444902294664
+    second: Aiden_Pyralis_sheet_135
+  - first:
+      213: -7733878603040881355
+    second: Aiden_Pyralis_sheet_136
+  - first:
+      213: -4899221454863247380
+    second: Aiden_Pyralis_sheet_137
+  - first:
+      213: 6984374251411054393
+    second: Aiden_Pyralis_sheet_138
+  - first:
+      213: 5458698131701477363
+    second: Aiden_Pyralis_sheet_139
+  - first:
+      213: 7215328205702566693
+    second: Aiden_Pyralis_sheet_140
+  - first:
+      213: 3547216845752826159
+    second: Aiden_Pyralis_sheet_141
+  - first:
+      213: -2309529739609905825
+    second: Aiden_Pyralis_sheet_142
+  - first:
+      213: -2895344614939847788
+    second: Aiden_Pyralis_sheet_143
+  - first:
+      213: 293945437700974440
+    second: Aiden_Pyralis_sheet_144
+  - first:
+      213: -1670804277923655857
+    second: Aiden_Pyralis_sheet_145
+  - first:
+      213: -494249773741750348
+    second: Aiden_Pyralis_sheet_146
+  - first:
+      213: 9017386273008521233
+    second: Aiden_Pyralis_sheet_147
+  - first:
+      213: -851091400605508377
+    second: Aiden_Pyralis_sheet_148
+  - first:
+      213: -8814778003797614251
+    second: Aiden_Pyralis_sheet_149
+  - first:
+      213: -5612912760271893679
+    second: Aiden_Pyralis_sheet_150
+  - first:
+      213: 4266946609937595973
+    second: Aiden_Pyralis_sheet_151
+  - first:
+      213: -251438415722714499
+    second: Aiden_Pyralis_sheet_152
+  - first:
+      213: -4548399783287084076
+    second: Aiden_Pyralis_sheet_153
+  - first:
+      213: 538622943274552147
+    second: Aiden_Pyralis_sheet_154
+  - first:
+      213: 4826380557703975597
+    second: Aiden_Pyralis_sheet_155
+  - first:
+      213: -6580690132392893779
+    second: Aiden_Pyralis_sheet_156
+  - first:
+      213: 3059467334864620921
+    second: Aiden_Pyralis_sheet_157
+  - first:
+      213: 8897356333213824496
+    second: Aiden_Pyralis_sheet_158
+  - first:
+      213: -4431556912662984710
+    second: Aiden_Pyralis_sheet_159
+  - first:
+      213: 8685030989227058601
+    second: Aiden_Pyralis_sheet_160
+  - first:
+      213: 1823839701785841661
+    second: Aiden_Pyralis_sheet_161
+  - first:
+      213: -7328047243610509971
+    second: Aiden_Pyralis_sheet_162
+  - first:
+      213: 7765394417239904942
+    second: Aiden_Pyralis_sheet_163
+  - first:
+      213: -697602553698946407
+    second: Aiden_Pyralis_sheet_164
+  - first:
+      213: -6479179913689727790
+    second: Aiden_Pyralis_sheet_165
+  - first:
+      213: -6479019461863760028
+    second: Aiden_Pyralis_sheet_166
+  - first:
+      213: -8053991055807521359
+    second: Aiden_Pyralis_sheet_167
+  - first:
+      213: 8780370575650157942
+    second: Aiden_Pyralis_sheet_168
+  - first:
+      213: 8335461837267646417
+    second: Aiden_Pyralis_sheet_169
+  - first:
+      213: -8568904466912009555
+    second: Aiden_Pyralis_sheet_170
+  - first:
+      213: -1349988072256953242
+    second: Aiden_Pyralis_sheet_171
+  - first:
+      213: 4229455924550313015
+    second: Aiden_Pyralis_sheet_172
+  - first:
+      213: 1964164108291544610
+    second: Aiden_Pyralis_sheet_173
+  - first:
+      213: -3690194525017522199
+    second: Aiden_Pyralis_sheet_174
+  - first:
+      213: -5592478383596490467
+    second: Aiden_Pyralis_sheet_175
+  - first:
+      213: 779588466605213687
+    second: Aiden_Pyralis_sheet_176
+  - first:
+      213: -5436141599136130764
+    second: Aiden_Pyralis_sheet_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireUp1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4304a3b3ec666650800000000000000
+      internalID: 6225783260113535823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireUp2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1282
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6ec3d8d6ab0a160800000000000000
+      internalID: 7034827597636495094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireUp3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1281
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eec696bc62158000800000000000000
+      internalID: 37456430031621863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireUp4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1944373273885a30800000000000000
+      internalID: 4204254778726041887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireUp5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb9911d3ade64050800000000000000
+      internalID: 5784572059247549391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireUp6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b964910893adb50800000000000000
+      internalID: 6618665824717019975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireUp7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3d1c5089d2e6180800000000000000
+      internalID: -9120302064423808049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireLeft1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1217
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e2d4f8aa893d90800000000000000
+      internalID: -7117505277815758557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireLeft2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1217
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d490b52e0f0ee4510800000000000000
+      internalID: 1535411848174307661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireLeft3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1217
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1048a329484f940f0800000000000000
+      internalID: -1132104981080800255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireLeft4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1217
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a21be66ab008d10800000000000000
+      internalID: 2125711833568455244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireLeft5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1217
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7adf34a4ccffdca0800000000000000
+      internalID: -5989791057880032645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireLeft6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1217
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8b86a994edcb630800000000000000
+      internalID: 3944271781374245056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireLeft7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1217
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4de2e7204e3b2020800000000000000
+      internalID: 2318014878480264526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireFront1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7883ad8ca0fac1ff0800000000000000
+      internalID: -63983833835751289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireFront2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4824b7881665b7460800000000000000
+      internalID: 7240475802829800068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireFront3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5e2bea09790b260800000000000000
+      internalID: 7111350459280057790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireFront4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1152
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22a2ffbcb9148cb0800000000000000
+      internalID: -4862733399188397522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireFront5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1152
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4b301379e1f95d0800000000000000
+      internalID: -3053688387622685471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireFront6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1152
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49917ed6a8b048630800000000000000
+      internalID: 3928277464151169428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireFront7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1152
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9eb29aa173ecfa0800000000000000
+      internalID: -5778620684222862867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRight1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241b826dea581e6c0800000000000000
+      internalID: -4115861598476127934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRight2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1089
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976b6aef1535727d0800000000000000
+      internalID: -2943292219833534855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRight3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1089
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7cdce65cf637380800000000000000
+      internalID: -8974706738661046303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRight4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46694135f13865920800000000000000
+      internalID: 2978712374113244772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRight5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1089
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4529d92b9b6b7aca0800000000000000
+      internalID: -6005630669393391020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRight6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1089
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eafdd259bec21b0800000000000000
+      internalID: -5679906004068749750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRight7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1089
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a922d11340db10800000000000000
+      internalID: 2004175577999319525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1026
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdffaaa6868869c60800000000000000
+      internalID: 7824591384650383324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1024
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3456912539d3767b0800000000000000
+      internalID: -5231144739220658877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1024
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b270520d52fce140800000000000000
+      internalID: 4750438188253737656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1024
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b64e719e9fe640800000000000000
+      internalID: 5111478449814812014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1024
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff80ca9b4527f720800000000000000
+      internalID: 2879811493375807476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1024
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdbcf4d986921c30800000000000000
+      internalID: 4328687710584487420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1024
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ac02974a8287ef0800000000000000
+      internalID: -110293503998637516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1024
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e144d7e60a4e78f0800000000000000
+      internalID: -540913511718174234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 961
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9753dbe527e240800000000000000
+      internalID: 4820863620916681371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 961
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd830408a8f546e0800000000000000
+      internalID: -1853802271087555107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 961
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db3960f72af68270800000000000000
+      internalID: 8252558416647109592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 960
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f97ab679aa8d1a0800000000000000
+      internalID: -6784485271310721181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 960
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0aaf0627b12be10800000000000000
+      internalID: 2211860545059594438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09ac34b742e89140800000000000000
+      internalID: 4726776606519765260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 960
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6330e03160487ff20800000000000000
+      internalID: 3456376400654500662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 960
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bff43ad49ba2d50800000000000000
+      internalID: 6713381937652693778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 896
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedddeb0cf2800320800000000000000
+      internalID: 2522159810370985451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 897
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf292182003e9170800000000000000
+      internalID: 8187033959921168347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 897
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cccc9eabf637c40800000000000000
+      internalID: 5508869617781361821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 897
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77851442d0bf23190800000000000000
+      internalID: -7984043155513059209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 897
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98742f17761863c0800000000000000
+      internalID: -4366215137856292709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 896
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9ff6884ed01e8b0800000000000000
+      internalID: -5124799625778169420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 897
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8566cee85a478eba0800000000000000
+      internalID: -6059465044210719144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 897
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2200927d049238e00800000000000000
+      internalID: 1045724896944521250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 833
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc29229bc02eeaf60800000000000000
+      internalID: 8047618128431190733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 833
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9857e49d1a9953c90800000000000000
+      internalID: -7190672309612546679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 833
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2c84ab5f346f4a0800000000000000
+      internalID: -6559981084547169573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 832
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77485cc7bd030cba0800000000000000
+      internalID: -6070798578446138249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 832
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d28fbed21b202de0800000000000000
+      internalID: -1360039727419391279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 832
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0d614ce4156e360800000000000000
+      internalID: 7198530453137445078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 832
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3e6a3b83fd1c5e0800000000000000
+      internalID: -1890984933893676071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 832
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca7d03f00cfccdf0800000000000000
+      internalID: -158474805856863552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 771
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d4deed9b9c9bd0800000000000000
+      internalID: -2622049780417374527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 771
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90abe1a4dbe465b40800000000000000
+      internalID: 5428612975741024777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 770
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ccaf67860ce4440800000000000000
+      internalID: 4922082997667810306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 769
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972c504ae8764e8f0800000000000000
+      internalID: -512170595278536071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 770
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb42e05de41349140800000000000000
+      internalID: 4725456123670176956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 771
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eefd466e4763a600800000000000000
+      internalID: 478339571852902118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 770
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd096d495f2c4e90800000000000000
+      internalID: -7040200056889602561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 769
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb270996bd1c21080800000000000000
+      internalID: -9218092339160911169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 770
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3a01dd9eacc0270800000000000000
+      internalID: 8218166525829358571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 705
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5b876d60702b9d0800000000000000
+      internalID: -2760135895675259463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 706
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32851dc2da75d2c80800000000000000
+      internalID: -8345918133154785245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 707
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb3c1734e63279a0800000000000000
+      internalID: -6236862180149675012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 707
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47f3bd42c29fbe00800000000000000
+      internalID: 1062729400307677002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 706
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ea49224ca4d1d30800000000000000
+      internalID: 4403758216892427920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f74ee44427bf7ee0800000000000000
+      internalID: -1261088004237277196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 706
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5706b7982bef81770800000000000000
+      internalID: 8581889132718678133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 706
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e888867bfb8120800000000000000
+      internalID: 2417302111529788009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 706
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e95457c12b769c0800000000000000
+      internalID: -3933979914188513676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 640
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de331548741892340800000000000000
+      internalID: 4839541418748883949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea3bb0364ea235d0800000000000000
+      internalID: -3084211178306848026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4db88f010cb217a0800000000000000
+      internalID: -6407852607053185717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfc74ab28a4c4190800000000000000
+      internalID: -7976918914648518695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81e1c48308bcd1d0800000000000000
+      internalID: -3324580099654557299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 640
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c074c698bb008d10800000000000000
+      internalID: 2125711911550218437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6279ee092208d9560800000000000000
+      internalID: 7322149455123093286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1652161c62be03c0800000000000000
+      internalID: -4391376409343142374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 640
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c263619cd6986ab60800000000000000
+      internalID: 7757038512810374700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 577
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45013b6afaadea7d0800000000000000
+      internalID: -2905144261656506284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 578
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf63901313a34be0800000000000000
+      internalID: -1494171349079068727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 579
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5afdd922c05d5d0800000000000000
+      internalID: -3038509030774430299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 579
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b712239b771340140800000000000000
+      internalID: 4684923902650098043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 578
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6474cda250b0ee0800000000000000
+      internalID: -1293934786296461619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 578
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f890cc00b33a0690800000000000000
+      internalID: -7635233387032045325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 578
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4439a4add46aaa0800000000000000
+      internalID: -6150142641178458883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 578
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3372f8b252e0ef630800000000000000
+      internalID: 3962620274939995955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 578
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e090008defd72580800000000000000
+      internalID: -8851860331425656602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43345d2876173e860800000000000000
+      internalID: 7558009289048408884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 513
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1b167992bf04700800000000000000
+      internalID: 522693712826970587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 513
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e4cf1067429c2a0800000000000000
+      internalID: -6716797279988330861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 513
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01c248a299ba5d30800000000000000
+      internalID: 4421050023756873998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7151d107a9469bd00800000000000000
+      internalID: 988932207653229847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70af534e365e71720800000000000000
+      internalID: 2816972309136800263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 449
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4405705c96cdc35f0800000000000000
+      internalID: -775502688979300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 448
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77076c6e063940b90800000000000000
+      internalID: -7276529053525970825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf2c211ed689e4a0800000000000000
+      internalID: -6563566693586817074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 448
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21004fe32e0d9b20800000000000000
+      internalID: 3142683662475067695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61100acc21df8620800000000000000
+      internalID: 2778669485408653674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 448
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c453bcfff17d9c40800000000000000
+      internalID: 5520694062496306371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 384
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0099d52265e9200800000000000000
+      internalID: 188682939995324636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 384
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd54dadfc545140a0800000000000000
+      internalID: -6899140395785173539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 384
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abdc9a9d6062e700800000000000000
+      internalID: 568122526863776677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 385
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c5d6b052b6b8740800000000000000
+      internalID: 5155332005305343103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 385
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb3feeda1a73f750800000000000000
+      internalID: 6337543356468378593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 385
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9527e6a84223c680800000000000000
+      internalID: -8736101156735474274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 321
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c750f242d1f50c0800000000000000
+      internalID: -4584913854394958790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 320
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c041306b0be1650800000000000000
+      internalID: 6205591632345304207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 320
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed657707df966a80800000000000000
+      internalID: -8473909902959088157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310fea5d350627870800000000000000
+      internalID: 8679105345079930899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1844a074b50482410800000000000000
+      internalID: 1452481640605041793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 320
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de13c5e321268080800000000000000
+      internalID: -9185617951913206062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd42071c7735f280800000000000000
+      internalID: -9010234473383309899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dfadfb84952f830800000000000000
+      internalID: 4103440379479260552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc1bac54ee91e0e0800000000000000
+      internalID: -2242336435809346380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 256
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c859d11dacbb772f0800000000000000
+      internalID: -975104314536258164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 256
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96f8a151922e52e0800000000000000
+      internalID: -2135231165791406435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b4f2a79ae738710800000000000000
+      internalID: 1694337151185931158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 256
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c8f740202c22750800000000000000
+      internalID: 6278794144429083722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 256
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2ba4de438819f20800000000000000
+      internalID: 3427670552306430624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 256
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27798e6725ed4d40800000000000000
+      internalID: 5570360271648159533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 256
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1a28c65bb79ec50800000000000000
+      internalID: 6695018340202750429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 256
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7324f541067eee700800000000000000
+      internalID: 571648602567295543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 256
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ec1af46e8e35140800000000000000
+      internalID: 4707362111408426541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 256
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bbfef5d3c87b8d0800000000000000
+      internalID: -2830639645548627077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 193
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9413b1cad0ec810800000000000000
+      internalID: 1787381134954416624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 193
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22787841eb183eda0800000000000000
+      internalID: -5916742832046504158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 193
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884b7b63d24cf7f30800000000000000
+      internalID: 4575591444902294664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53501c9e26ebba490800000000000000
+      internalID: -7733878603040881355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce757e24b08720cb0800000000000000
+      internalID: -4899221454863247380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f9db9706b7de060800000000000000
+      internalID: 6984374251411054393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 192
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa724870131cb40800000000000000
+      internalID: 5458698131701477363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 192
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52312ce46cef12460800000000000000
+      internalID: 7215328205702566693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 192
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f0606dee3a3130800000000000000
+      internalID: 3547216845752826159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 192
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55e95030f6e2ffd0800000000000000
+      internalID: -2309529739609905825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 192
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4939b24b96ba1d7d0800000000000000
+      internalID: -2895344614939847788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867638571dd441400800000000000000
+      internalID: 293945437700974440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 192
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f482d8c5c10d8e0800000000000000
+      internalID: -1670804277923655857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 128
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b74ecd03721429f0800000000000000
+      internalID: -494249773741750348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 129
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11018250a01342d70800000000000000
+      internalID: 9017386273008521233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 130
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecd48361e05034f0800000000000000
+      internalID: -851091400605508377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 128
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55167b5bb1e9ba580800000000000000
+      internalID: -8814778003797614251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b8cb0459dea12b0800000000000000
+      internalID: -5612912760271893679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 128
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e33e0a55d373b30800000000000000
+      internalID: 4266946609937595973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 128
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ae5f3d716b28cf0800000000000000
+      internalID: -251438415722714499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 128
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dba5bcde76d0e0c0800000000000000
+      internalID: -4548399783287084076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 128
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b41c196b2997700800000000000000
+      internalID: 538622943274552147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 128
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da21cc4cb8fbaf240800000000000000
+      internalID: 4826380557703975597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 128
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2adc9c031bca4a0800000000000000
+      internalID: -6580690132392893779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 128
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d4480d459657a20800000000000000
+      internalID: 3059467334864620921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 128
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f53841e172c97b70800000000000000
+      internalID: 8897356333213824496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 65
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7cbc2a772ff72c0800000000000000
+      internalID: -4431556912662984710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a563206bad678870800000000000000
+      internalID: 8685030989227058601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff0330bb849f4910800000000000000
+      internalID: 1823839701785841661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da05b8bdb8d4a90800000000000000
+      internalID: -7328047243610509971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2d264641934cb60800000000000000
+      internalID: 7765394417239904942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 64
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9927e586c2e9156f0800000000000000
+      internalID: -697602553698946407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 64
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc7da852345516a0800000000000000
+      internalID: -6479179913689727790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f94c27026e516a0800000000000000
+      internalID: -6479019461863760028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 64
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd5b6e7ec97a3090800000000000000
+      internalID: -8053991055807521359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6757be5a4842ad970800000000000000
+      internalID: 8780370575650157942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7b929b0628da370800000000000000
+      internalID: 8335461837267646417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 64
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2a37f89c2251980800000000000000
+      internalID: -8568904466912009555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 64
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6642c163001e34de0800000000000000
+      internalID: -1349988072256953242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7342ef731cb02ba30800000000000000
+      internalID: 4229455924550313015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2261a4399dc124b10800000000000000
+      internalID: 1964164108291544610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef3d3881abc9ccc0800000000000000
+      internalID: -3690194525017522199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d113ea35a868362b0800000000000000
+      internalID: -5592478383596490467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7cef67497a1da00800000000000000
+      internalID: 779588466605213687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiden_Pyralis_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43954ca7402fe84b0800000000000000
+      internalID: -5436141599136130764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
