@@ -5,11 +5,14 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     // Start is called before the first frame update
-    //Rigidbody2D rb;
+    public Rigidbody2D rb;
     public Animator animator;
     private float speed = 5f;
     float horizontal;
     float vertical;
+    private float attackTime = .25f;
+    private float attackCounter = .25f;
+    private bool isSwordAttack;
 
     //public float runSpeed = 20.0f;
 
@@ -33,6 +36,25 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetFloat("lastHorizontal", Input.GetAxisRaw("Horizontal"));
             animator.SetFloat("lastVertical", Input.GetAxisRaw("Vertical"));
+        }
+
+        if (isSwordAttack)
+        {
+            rb.velocity = Vector2.zero;
+            attackCounter -= Time.deltaTime;
+            if (attackCounter <=0)
+            {
+                animator.SetBool("isSwordAttack", false);
+                isSwordAttack = false;
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.Mouse0))
+        {
+            attackCounter = attackTime;
+            animator.SetBool("isSwordAttack", true);
+            isSwordAttack = true;
+
         }
     }
 
