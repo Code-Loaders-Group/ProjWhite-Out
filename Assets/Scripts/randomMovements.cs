@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class randomMovements : MonoBehaviour
-{
  void Start ()
     {
         initialPosition = transform.position;
