@@ -999,6 +999,14 @@ PrefabInstance:
       propertyPath: rb
       value: 
       objectReference: {fileID: 1582083427}
+    - target: {fileID: 2902727573335451674, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
+      propertyPath: fireBall
+      value: 
+      objectReference: {fileID: 7390654360756161158, guid: 09d1b9f451fe58b43923474761bb9060, type: 3}
+    - target: {fileID: 2902727573335451674, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
+      propertyPath: fireBallSpawner
+      value: 
+      objectReference: {fileID: 1357667330}
     - target: {fileID: 2902727573335451675, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_Mass
       value: 3
@@ -4961,6 +4969,36 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 80
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1357667330
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1357667331}
+  m_Layer: 0
+  m_Name: FireBallSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1357667331
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1357667330}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.131, y: -0.133, z: 1}
+  m_LocalScale: {x: 0.33333334, y: 0.33333334, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1582083431}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1396075667
 PrefabInstance:

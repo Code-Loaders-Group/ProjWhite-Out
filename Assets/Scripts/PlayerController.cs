@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
 
     public float speed;
     public float minX, minY, maxX, maxY;
-    public GameObject laser, laserSpawner;
+    public GameObject laser, fireBallSpawner;
     public float fireRate = 0.25f;
 
     private float timer = 0;
@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
             //If yes, spawn the lazer
             // Intastiation: What do I instantiate? Where is it instantiated from? What is its rotation?
             GameObject gObj;
-            gObj = GameObject.Instantiate(laser, laserSpawner.transform.position,laserSpawner.transform.rotation);
+            gObj = GameObject.Instantiate(laser, fireBallSpawner.transform.position, fireBallSpawner.transform.rotation);
             gObj.transform.Rotate(new Vector3(0, 0, 90));
 
             // Reset timer
