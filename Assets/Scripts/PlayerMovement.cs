@@ -67,7 +67,11 @@ public class PlayerMovement : MonoBehaviour
             swordAttackCounter -= Time.deltaTime;
             if (swordAttackCounter <=0)
             {
+//<<<<<<< Updated upstream
                 //refers to the sword attack from the animator window (condition is false).
+//=======
+                
+//>>>>>>> Stashed changes
                 animator.SetBool("isSwordAttack", false);
                 isSwordAttack = false;
             }
@@ -76,6 +80,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             //refers to the sword attack from the animator window (condition is true here).
+            SoundManager.PlaySound("swordSwing");
             swordAttackCounter = swordAttackTime;
             animator.SetBool("isSwordAttack", true);
             isSwordAttack = true;
@@ -97,6 +102,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse1))
         {
             //refers to the fireBall attack from the animator window (condition is true here).
+            SoundManager.PlaySound("fireBall");
             fireAttackCounter = fireAttackTime;
             animator.SetBool("isFireBall", true);
             isFireBall = true;
