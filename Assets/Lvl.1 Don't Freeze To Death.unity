@@ -1816,7 +1816,7 @@ GameObject:
   - component: {fileID: 350803066}
   - component: {fileID: 350803065}
   m_Layer: 0
-  m_Name: Ardentryst-snow_edge_left
+  m_Name: SnowCliff1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2788,7 +2788,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &644228202
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3262,7 +3262,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
-  m_Sprite: {fileID: 21300000, guid: 775e25952a057b340a73bc7b6ff952d2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d95da8cf69ed2064d9bb57f1cbd4d629, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3270,7 +3270,7 @@ SpriteRenderer:
   m_Size: {x: 0.64, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &724397276
@@ -3523,7 +3523,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
-  m_Sprite: {fileID: 21300000, guid: 775e25952a057b340a73bc7b6ff952d2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d95da8cf69ed2064d9bb57f1cbd4d629, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3531,7 +3531,7 @@ SpriteRenderer:
   m_Size: {x: 0.64, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &819673511
@@ -4552,7 +4552,7 @@ GameObject:
   - component: {fileID: 1075001536}
   - component: {fileID: 1075001535}
   m_Layer: 0
-  m_Name: Ardentryst-snow_edge_right
+  m_Name: SnowCliff2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4729,7 +4729,7 @@ GameObject:
   - component: {fileID: 1089104423}
   - component: {fileID: 1089104422}
   m_Layer: 0
-  m_Name: Ardentryst-snow_tree2
+  m_Name: SnowTree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5826,7 +5826,7 @@ GameObject:
   - component: {fileID: 1321749265}
   - component: {fileID: 1321749264}
   m_Layer: 0
-  m_Name: Ardentryst-snow_undercorner_right
+  m_Name: SnowCliff4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5921,7 +5921,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1357667330}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.131, y: -0.133, z: 1}
+  m_LocalPosition: {x: 0.121, y: 0.001, z: 1}
   m_LocalScale: {x: 0.33333334, y: 0.33333334, z: 1}
   m_Children: []
   m_Father: {fileID: 1582083431}
@@ -6735,10 +6735,10 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.22373393}
+  m_Offset: {x: 0.0026726462, y: -0.24320763}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -6749,7 +6749,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.28, y: 0.17253213}
+  m_Size: {x: 0.20703709, y: 0.15358472}
   m_EdgeRadius: 0
 --- !u!50 &1582083427 stripped
 Rigidbody2D:
@@ -6772,7 +6772,7 @@ GameObject:
   - component: {fileID: 1597113075}
   - component: {fileID: 1597113074}
   m_Layer: 0
-  m_Name: Ardentryst-snow_undercorner_left
+  m_Name: SnowCliff3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7526,7 +7526,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &1881020809
 BoxCollider2D:
   m_ObjectHideFlags: 0
