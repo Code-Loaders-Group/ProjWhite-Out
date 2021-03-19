@@ -4,10 +4,13 @@ using UnityEngine;
 
 public class fireBallMover : MonoBehaviour
 {
-    private float speed = 10f;
-    // Start is called before the first frame update
+    public float speed = 10f;
+
+    public float lifespan = 3f;
+
     void Start()
     {
         GetComponent<Rigidbody2D>().velocity = new Vector2(speed, 0.0f);
+        Destroy(gameObject, lifespan);
     }
 }
