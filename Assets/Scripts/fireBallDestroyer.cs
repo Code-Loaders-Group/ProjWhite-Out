@@ -6,6 +6,12 @@ public class fireBallDestroyer : MonoBehaviour
 {
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Destroy(gameObject);
+
+        if (collision.gameObject.tag == "enemy")
+        {
+            Destroy(collision.gameObject);
+            Destroy(this.gameObject);
+        }
+        else Destroy(this.gameObject);
     }
 }

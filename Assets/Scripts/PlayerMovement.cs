@@ -13,10 +13,11 @@ public class PlayerMovement : MonoBehaviour
     //fireball attack
     private bool isFireBall;
     public GameObject fireBall, fireBallSpawner;
+    int howManyFireBall;
 
     //used to limit attack time and to not keep the sword attack on
     private float swordAttackTime = .25f;
-    private float swordAttackCounter = .25f;
+    private float swordAttackCounter = .5f;
 
     //used to limit attack time and to not keep the fireball attack on
     private float fireAttackTime = .25f;
@@ -37,6 +38,8 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        //counts how many fireballs are in the scene
+        howManyFireBall = GameObject.FindGameObjectsWithTag("fireBall").Length;
         //for movement
         horizontal = Input.GetAxisRaw("Horizontal");
         vertical = Input.GetAxisRaw("Vertical");
@@ -102,13 +105,18 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse1))
         {
             //refers to the fireBall attack from the animator window (condition is true here).
-            SoundManager.PlaySound("fireBall");
+            
             fireAttackCounter = fireAttackTime;
             animator.SetBool("isFireBall", true);
             isFireBall = true;
             //add fireball spawner code
             //if conditions are true
-            Instantiate(fireBall, fireBallSpawner.transform.position, fireBallSpawner.transform.rotation);
+            if (howManyFireBall < 1)
+            {
+                Instantiate(fireBall, fireBallSpawner.transform.position, fireBallSpawner.transform.rotation);
+                SoundManager.PlaySound("fireBall");
+            }
+            
         }
     }
 }
