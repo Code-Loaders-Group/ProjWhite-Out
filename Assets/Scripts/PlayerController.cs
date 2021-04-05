@@ -36,8 +36,8 @@ public class PlayerController : MonoBehaviour
             //If yes, spawn the lazer
             // Intastiation: What do I instantiate? Where is it instantiated from? What is its rotation?
             GameObject gObj;
-            gObj = GameObject.Instantiate(laser, fireBallSpawner.transform.position, fireBallSpawner.transform.rotation);
-            gObj.transform.Rotate(new Vector3(0, 0, 90));
+            gObj = GameObject.Instantiate(laser, fireBallSpawner.transform.position, transform.rotation);
+            //gObj.transform.Rotate(new Vector3(0, 0, 90));
 
             // Reset timer
             timer = 0;

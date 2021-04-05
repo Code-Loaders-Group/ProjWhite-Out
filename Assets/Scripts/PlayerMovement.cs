@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    private Camera cam;
     // Start is called before the first frame update
     //used for the attack true or false logic ath the bottom
     public Rigidbody2D rb;
@@ -16,8 +17,8 @@ public class PlayerMovement : MonoBehaviour
     int howManyFireBall;
 
     //used to limit attack time and to not keep the sword attack on
-    private float swordAttackTime = .25f;
-    private float swordAttackCounter = .5f;
+    private float swordAttackTime = .15f;
+    private float swordAttackCounter = .2f;
 
     //used to limit attack time and to not keep the fireball attack on
     private float fireAttackTime = .25f;
@@ -38,6 +39,8 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+
+
         //counts how many fireballs are in the scene
         howManyFireBall = GameObject.FindGameObjectsWithTag("fireBall").Length;
         //for movement

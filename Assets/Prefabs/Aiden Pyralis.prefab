@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2902727573335463909}
   - component: {fileID: 2902727573335451674}
   - component: {fileID: 2902727573335451675}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Aiden Pyralis
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -116,6 +116,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15b0ff62baa3cdf4e8aa88424971f51b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rb: {fileID: 0}
+  fireBall: {fileID: 0}
+  fireBallSpawner: {fileID: 0}
   animator: {fileID: 2902727573335463909}
 --- !u!50 &2902727573335451675
 Rigidbody2D:
