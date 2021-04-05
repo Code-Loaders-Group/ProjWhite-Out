@@ -1620,19 +1620,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 369727386605852593, guid: 2de4aaf5f7ce9be40ba9ad30598652a4, type: 3}
       propertyPath: m_LocalPosition.x
-<<<<<<< Updated upstream
       value: -16.428566
-=======
-      value: 0
->>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 369727386605852593, guid: 2de4aaf5f7ce9be40ba9ad30598652a4, type: 3}
       propertyPath: m_LocalPosition.y
-<<<<<<< Updated upstream
       value: -14.824127
-=======
-      value: 0
->>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 369727386605852593, guid: 2de4aaf5f7ce9be40ba9ad30598652a4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -17891,68 +17883,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
 --- !u!1001 &1793136185
-=======
---- !u!4 &1321749265
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1321749263}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 17.24, y: 13.84, z: 0}
-  m_LocalScale: {x: 4, y: 4, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 80
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1357667330
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1357667331}
-  - component: {fileID: 1357667332}
-  m_Layer: 0
-  m_Name: FireBallSpawner
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1357667331
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1357667330}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 1}
-  m_LocalScale: {x: 0.33333334, y: 0.33333334, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1582083431}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1357667332
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1357667330}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 60238149964c19d479d35529ecc904ab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!1001 &1396075667
->>>>>>> Stashed changes
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -18384,23 +18315,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 136134772}
     m_Modifications:
-<<<<<<< Updated upstream
     - target: {fileID: 394590116997101826, guid: e9985f34a0b5d544c860bc5fd6fb7603, type: 3}
       propertyPath: m_Name
       value: VertWall1 (12)
-=======
-    - target: {fileID: 5243938869062965561, guid: 37bd25bb7a457a4499cec39a97bdc1a1, type: 3}
-      propertyPath: m_Depth
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5243938869062965561, guid: 37bd25bb7a457a4499cec39a97bdc1a1, type: 3}
-      propertyPath: m_ClearFlags
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5243938869062965561, guid: 37bd25bb7a457a4499cec39a97bdc1a1, type: 3}
-      propertyPath: orthographic
-      value: 1
->>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 394590116997101829, guid: e9985f34a0b5d544c860bc5fd6fb7603, type: 3}
       propertyPath: m_SortingOrder
@@ -18410,19 +18327,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 17
       objectReference: {fileID: 0}
-<<<<<<< Updated upstream
     - target: {fileID: 394590116997101830, guid: e9985f34a0b5d544c860bc5fd6fb7603, type: 3}
-=======
-    - target: {fileID: 5243938869062965562, guid: 37bd25bb7a457a4499cec39a97bdc1a1, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5243938869062965562, guid: 37bd25bb7a457a4499cec39a97bdc1a1, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5243938869062965562, guid: 37bd25bb7a457a4499cec39a97bdc1a1, type: 3}
->>>>>>> Stashed changes
       propertyPath: m_LocalPosition.x
       value: 15.8121605
       objectReference: {fileID: 0}

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3417414795518505901}
   - component: {fileID: 9116927989259878310}
   - component: {fileID: 7409941852192967872}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: FireBall
   m_TagString: fireBall
   m_Icon: {fileID: 0}
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  rb: {fileID: 7390654360756161159}
+  lifespan: 3
 --- !u!114 &9116927989259878310
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -153,7 +153,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7de7435092209ff4ea52a800f652d4f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemy_explosion: {fileID: 1752160839883316247, guid: a607cf7382783c742b5b3697e841944f, type: 3}
 --- !u!70 &7409941852192967872
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
