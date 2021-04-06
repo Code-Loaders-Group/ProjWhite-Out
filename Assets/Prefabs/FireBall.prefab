@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3417414795518505901}
   - component: {fileID: 9116927989259878310}
   - component: {fileID: 7409941852192967872}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FireBall
   m_TagString: fireBall
   m_Icon: {fileID: 0}
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  lifespan: 3
+  rb: {fileID: 7390654360756161159}
 --- !u!114 &9116927989259878310
 MonoBehaviour:
   m_ObjectHideFlags: 0
