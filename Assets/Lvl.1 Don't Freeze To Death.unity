@@ -398,7 +398,7 @@ GameObject:
   m_Component:
   - component: {fileID: 26609504}
   - component: {fileID: 26609505}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -546,7 +546,7 @@ GameObject:
   m_Component:
   - component: {fileID: 33385615}
   - component: {fileID: 33385616}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -706,7 +706,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -768,7 +768,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 35
+      value: 34
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -961,7 +961,7 @@ GameObject:
   - component: {fileID: 68439559}
   m_Layer: 0
   m_Name: Sloman (2)
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1041,7 +1041,7 @@ GameObject:
   m_Component:
   - component: {fileID: 70371924}
   - component: {fileID: 70371925}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1251,7 +1251,7 @@ GameObject:
   m_Component:
   - component: {fileID: 92529682}
   - component: {fileID: 92529683}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1477,7 +1477,7 @@ GameObject:
   m_Component:
   - component: {fileID: 105858324}
   - component: {fileID: 105858325}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1687,7 +1687,7 @@ GameObject:
   m_Component:
   - component: {fileID: 121835785}
   - component: {fileID: 121835786}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2241,7 +2241,7 @@ GameObject:
   m_Component:
   - component: {fileID: 145291099}
   - component: {fileID: 145291100}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2584,7 +2584,7 @@ GameObject:
   m_Component:
   - component: {fileID: 208818320}
   - component: {fileID: 208818321}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2759,7 +2759,7 @@ GameObject:
   m_Component:
   - component: {fileID: 233503359}
   - component: {fileID: 233503360}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2840,7 +2840,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3035,7 +3035,7 @@ GameObject:
   m_Component:
   - component: {fileID: 238762114}
   - component: {fileID: 238762115}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3273,7 +3273,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 23
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -3339,7 +3339,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3401,7 +3401,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3463,7 +3463,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 32
+      value: 31
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -3798,7 +3798,7 @@ GameObject:
   m_Component:
   - component: {fileID: 317260524}
   - component: {fileID: 317260525}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3946,7 +3946,7 @@ GameObject:
   m_Component:
   - component: {fileID: 331226402}
   - component: {fileID: 331226403}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4027,7 +4027,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 26
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -4370,7 +4370,7 @@ GameObject:
   m_Component:
   - component: {fileID: 359333513}
   - component: {fileID: 359333514}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4707,7 +4707,7 @@ GameObject:
   m_Component:
   - component: {fileID: 385509765}
   - component: {fileID: 385509766}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4844,7 +4844,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 39
+      value: 38
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -5167,7 +5167,7 @@ GameObject:
   m_Component:
   - component: {fileID: 441541542}
   - component: {fileID: 441541543}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5504,7 +5504,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5571,7 +5571,7 @@ GameObject:
   m_Component:
   - component: {fileID: 467400667}
   - component: {fileID: 467400668}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5717,7 +5717,7 @@ GameObject:
   - component: {fileID: 474117521}
   m_Layer: 0
   m_Name: Sloman (5)
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5995,7 +5995,7 @@ GameObject:
   m_Component:
   - component: {fileID: 506602819}
   - component: {fileID: 506602820}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6143,7 +6143,7 @@ GameObject:
   m_Component:
   - component: {fileID: 526817315}
   - component: {fileID: 526817316}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6225,7 +6225,7 @@ GameObject:
   m_Component:
   - component: {fileID: 541898252}
   - component: {fileID: 541898253}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6306,7 +6306,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 31
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -6439,7 +6439,7 @@ GameObject:
   m_Component:
   - component: {fileID: 578445474}
   - component: {fileID: 578445475}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6521,7 +6521,7 @@ GameObject:
   m_Component:
   - component: {fileID: 581733656}
   - component: {fileID: 581733657}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6664,7 +6664,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6730,7 +6730,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6987,7 +6987,7 @@ GameObject:
   m_Component:
   - component: {fileID: 642360168}
   - component: {fileID: 642360169}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7147,7 +7147,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 37
+      value: 36
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -7308,7 +7308,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7373,7 +7373,7 @@ GameObject:
   - component: {fileID: 672911340}
   m_Layer: 0
   m_Name: Sloman (7)
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7453,7 +7453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 676408024}
   - component: {fileID: 676408025}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7534,7 +7534,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 33
+      value: 32
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -7752,7 +7752,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 20
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -7883,7 +7883,7 @@ GameObject:
   - component: {fileID: 724397275}
   m_Layer: 0
   m_Name: Sloman
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7962,7 +7962,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8090,7 +8090,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8156,7 +8156,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 770481759}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Decor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8248,7 +8248,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 21
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -8315,7 +8315,7 @@ GameObject:
   m_Component:
   - component: {fileID: 793404835}
   - component: {fileID: 793404836}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8396,7 +8396,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 36
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -8465,7 +8465,7 @@ GameObject:
   - component: {fileID: 819673510}
   m_Layer: 0
   m_Name: Sloman (1)
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8875,7 +8875,7 @@ GameObject:
   m_Component:
   - component: {fileID: 863257462}
   - component: {fileID: 863257463}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9022,7 +9022,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 24
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -9212,7 +9212,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 19
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -9283,7 +9283,7 @@ GameObject:
   m_Component:
   - component: {fileID: 909563717}
   - component: {fileID: 909563718}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9497,7 +9497,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9560,7 +9560,7 @@ GameObject:
   m_Component:
   - component: {fileID: 924417056}
   - component: {fileID: 924417057}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9798,7 +9798,7 @@ GameObject:
   m_Component:
   - component: {fileID: 969419295}
   - component: {fileID: 969419296}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor2 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9961,7 +9961,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 34
+      value: 33
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -10028,7 +10028,7 @@ GameObject:
   m_Component:
   - component: {fileID: 992427565}
   - component: {fileID: 992427566}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10170,7 +10170,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 41
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -10302,7 +10302,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 49
+      value: 48
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -10497,7 +10497,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1026870880}
   - component: {fileID: 1026870881}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10723,7 +10723,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1050950778}
   - component: {fileID: 1050950779}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10887,7 +10887,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1076076852}
   - component: {fileID: 1076076853}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11146,7 +11146,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1093841445}
   - component: {fileID: 1093841446}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11499,7 +11499,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11562,7 +11562,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1133987951}
   - component: {fileID: 1133987952}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11908,7 +11908,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1152625718}
   - component: {fileID: 1152625719}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12154,7 +12154,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1167442064}
   - component: {fileID: 1167442065}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12363,7 +12363,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 27
+      value: 26
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -12491,7 +12491,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12558,7 +12558,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1191363964}
   - component: {fileID: 1191363965}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12640,7 +12640,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1193089549}
   - component: {fileID: 1193089550}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12722,7 +12722,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1204266568}
   - component: {fileID: 1204266569}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12927,7 +12927,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 38
+      value: 37
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -13118,7 +13118,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1237360928}
   - component: {fileID: 1237360929}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13286,7 +13286,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1240142066}
   - component: {fileID: 1240142067}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13368,7 +13368,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1261500699}
   - component: {fileID: 1261500700}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13574,7 +13574,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1273168433}
   - component: {fileID: 1273168434}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13718,7 +13718,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1297730816}
   - component: {fileID: 1297730817}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13877,7 +13877,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 45
+      value: 44
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -14382,7 +14382,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 43
+      value: 42
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -14837,7 +14837,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 46
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -15101,7 +15101,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1460280106}
   - component: {fileID: 1460280107}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15367,7 +15367,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1487519408}
   - component: {fileID: 1487519409}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15518,7 +15518,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 44
+      value: 43
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -15663,7 +15663,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1513629507}
   - component: {fileID: 1513629508}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15745,7 +15745,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1517674821}
   - component: {fileID: 1517674822}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15892,7 +15892,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 40
+      value: 39
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -15959,7 +15959,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1549522282}
   - component: {fileID: 1549522283}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16206,7 +16206,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0026726462, y: -0.24320763}
+  m_Offset: {x: 0.0026726425, y: -0.2565805}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -16217,7 +16217,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.20703709, y: 0.15358472}
+  m_Size: {x: 0.20703709, y: 0.12683898}
   m_EdgeRadius: 0
 --- !u!50 &1582083427 stripped
 Rigidbody2D:
@@ -16238,7 +16238,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 25
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -16448,7 +16448,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -16519,7 +16519,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1633812068}
   - component: {fileID: 1633812069}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16667,7 +16667,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1644574542}
   - component: {fileID: 1644574543}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16830,7 +16830,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 29
+      value: 28
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -16897,7 +16897,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1680566142}
   - component: {fileID: 1680566143}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16978,7 +16978,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17041,7 +17041,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1708686665}
   - component: {fileID: 1708686666}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17123,7 +17123,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1708843650}
   - component: {fileID: 1708843651}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17266,7 +17266,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 42
+      value: 41
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -17333,7 +17333,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1721709688}
   - component: {fileID: 1721709689}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17544,7 +17544,7 @@ GameObject:
   - component: {fileID: 1735004980}
   m_Layer: 0
   m_Name: Sloman (3)
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17624,7 +17624,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1740022568}
   - component: {fileID: 1740022569}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17896,7 +17896,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1789012194}
   - component: {fileID: 1789012195}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18130,7 +18130,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 47
+      value: 46
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -18259,7 +18259,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1820123678}
   - component: {fileID: 1820123679}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TorchDecor (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18799,7 +18799,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 22
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -18866,7 +18866,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1911468816}
   - component: {fileID: 1911468817}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18948,7 +18948,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1932731558}
   - component: {fileID: 1932731559}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19091,7 +19091,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 48
+      value: 47
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -19157,7 +19157,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 28
+      value: 27
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -19409,7 +19409,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 30
+      value: 29
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
@@ -20039,7 +20039,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20206,7 +20206,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2114197753}
   - component: {fileID: 2114197754}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20288,7 +20288,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2130821165}
   - component: {fileID: 2130821166}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SnowDecor5 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20434,7 +20434,7 @@ GameObject:
   - component: {fileID: 2140806348}
   m_Layer: 0
   m_Name: Sloman (6)
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20513,7 +20513,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_RootOrder
-      value: 18
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 1057618962512749114, guid: 36a006cb39d9b714193746cf667b5854, type: 3}
       propertyPath: m_LocalScale.x
