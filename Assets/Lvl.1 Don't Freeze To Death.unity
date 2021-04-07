@@ -3168,7 +3168,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: c8d5efaf0e1d2e347a03f93a862661f8, type: 3}
     m_FontSize: 1
     m_FontStyle: 0
-    m_BestFit: 1
+    m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 200
     m_Alignment: 1
@@ -4143,6 +4143,10 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1582083431}
+    - target: {fileID: 5556999112954294311, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
+      propertyPath: m_Mass
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (8)
@@ -8884,6 +8888,14 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1582083431}
+    - target: {fileID: 5556999112954294311, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5556999112954294311, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
+      propertyPath: m_AngularDrag
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (9)
