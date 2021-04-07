@@ -6,6 +6,7 @@ TagManager:
   tags:
   - fireBall
   - enemy
+  - bossDoor
   layers:
   - Default
   - TransparentFX
