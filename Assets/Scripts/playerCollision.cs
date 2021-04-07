@@ -5,7 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class playerCollision : MonoBehaviour
 {
-    private void OnCollisionEnter2D(Collision2D other)
+    
+
+    private void OnTriggerEnter2D(Collider2D other)
     {
         // when enemy touches player
         if (other.gameObject.tag == "enemy")
