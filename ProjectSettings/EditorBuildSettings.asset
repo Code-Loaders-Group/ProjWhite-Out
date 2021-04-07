@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Lvl.1 Don't Freeze To Death.unity
     guid: fe51ba50e7bd2a041a4ff709dce4bc30
+  - enabled: 1
+    path: Assets/gameOver.unity
+    guid: 1a99d8ab4cfeec24699d5c9f2619698b
   m_configObjects: {}
