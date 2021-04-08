@@ -10,8 +10,8 @@ public class Restart : MonoBehaviour
     // Start is called before the first frame update
     void Update()
     {
-        timer = timer + 1;
-        if (timer >= 360)
+        timer += Time.deltaTime;
+        if (timer >= 6)
         {
             restartText.SetActive(true);
             if (Input.GetKey(KeyCode.R))

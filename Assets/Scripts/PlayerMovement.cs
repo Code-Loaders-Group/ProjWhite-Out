@@ -13,10 +13,11 @@ public class PlayerMovement : MonoBehaviour
     //fireball attack
     private bool isFireBall;
     public GameObject fireBall, fireBallSpawner;
+    //limits the amount of fireballs in the game at once;
     int howManyFireBall;
 
     //used to limit attack time and to not keep the sword attack on
-    private float swordAttackTime = .25f;
+    private float swordAttackTime = .15f;
     private float swordAttackCounter = .5f;
 
     //used to limit attack time and to not keep the fireball attack on
@@ -70,11 +71,7 @@ public class PlayerMovement : MonoBehaviour
             swordAttackCounter -= Time.deltaTime;
             if (swordAttackCounter <=0)
             {
-//<<<<<<< Updated upstream
                 //refers to the sword attack from the animator window (condition is false).
-//=======
-                
-//>>>>>>> Stashed changes
                 animator.SetBool("isSwordAttack", false);
                 isSwordAttack = false;
             }
@@ -83,10 +80,10 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             //refers to the sword attack from the animator window (condition is true here).
-            SoundManager.PlaySound("swordSwing");
             swordAttackCounter = swordAttackTime;
             animator.SetBool("isSwordAttack", true);
             isSwordAttack = true;
+            SoundManager.PlaySound("swordSwing");      
         }
 
         if (isFireBall)
