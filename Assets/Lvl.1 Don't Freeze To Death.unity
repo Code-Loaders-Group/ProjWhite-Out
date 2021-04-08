@@ -376,7 +376,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (14)
@@ -1941,7 +1941,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (4)
@@ -2365,7 +2365,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (6)
@@ -2575,6 +2575,14 @@ PrefabInstance:
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.3
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3141,7 +3149,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (10)
@@ -3813,7 +3821,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (5)
@@ -4031,10 +4039,10 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294311, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Mass
-      value: 0.26058632
+      value: 0.6102522
       objectReference: {fileID: 0}
     - target: {fileID: 5556999112954294311, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_UseAutoMass
@@ -4582,7 +4590,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (3)
@@ -4976,7 +4984,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (15)
@@ -5597,7 +5605,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.08985782, y: 0.2118485}
+  m_Offset: {x: -0.09890866, y: 0.2118485}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -5608,7 +5616,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.83549225, y: 1.4467916}
+  m_Size: {x: 0.87768054, y: 1.4467916}
   m_EdgeRadius: 0
 --- !u!1001 &469779407
 PrefabInstance:
@@ -5874,7 +5882,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (11)
@@ -6384,7 +6392,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (8)
@@ -6966,7 +6974,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (1)
@@ -7094,7 +7102,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman
@@ -8685,7 +8693,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (13)
@@ -8755,7 +8763,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294311, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_LinearDrag
       value: 0
@@ -8899,7 +8907,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (9)
@@ -8993,6 +9001,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &863281998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 863281999}
+  m_Layer: 0
+  m_Name: enemyAttackPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &863281999
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 863281998}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.053, y: -0.115, z: 1}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1582083431}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &869675758
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9047,7 +9085,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (2)
@@ -14169,7 +14207,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (12)
@@ -16575,7 +16613,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman (7)
@@ -17310,10 +17348,12 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.12779488, y: 0.13738418}
+    - - {x: 0.29825795, y: 0.09155758}
+      - {x: 0.12779488, y: 0.13738418}
       - {x: 0.11603111, y: -0.09992686}
       - {x: 0.11386669, y: -0.24054259}
       - {x: 0.24912882, y: -0.3106167}
+      - {x: 0.3317227, y: -0.25073594}
       - {x: 0.37597942, y: -0.048808664}
 --- !u!114 &1716966357
 MonoBehaviour:
@@ -17327,6 +17367,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0c7305394d3ea34e959af8cef7dc838, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  swordSlash: {fileID: 5571922064546703839, guid: f862b4de27e3f4241b7e5f986b386294, type: 3}
 --- !u!1 &1721709687
 GameObject:
   m_ObjectHideFlags: 0
@@ -18798,7 +18839,9 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -0.013688862, y: 0.26517597}
+    - - {x: 0.18025209, y: 0.2183559}
+      - {x: -0.013688862, y: 0.26517597}
+      - {x: -0.18101762, y: 0.23067641}
       - {x: -0.31298405, y: 0.15109268}
       - {x: -0.20561276, y: -0.039726987}
       - {x: 0.20348892, y: -0.059597168}
@@ -18815,6 +18858,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0c7305394d3ea34e959af8cef7dc838, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  swordSlash: {fileID: 5571922064546703839, guid: f862b4de27e3f4241b7e5f986b386294, type: 3}
 --- !u!1001 &1899546777
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20484,7 +20528,9 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -0.004560847, y: -0.4422429}
+    - - {x: 0.20758471, y: -0.35610822}
+      - {x: -0.004560847, y: -0.4422429}
+      - {x: -0.17848366, y: -0.36001477}
       - {x: -0.29472792, y: -0.2551027}
       - {x: -0.20561276, y: -0.03516297}
       - {x: 0.19892488, y: -0.041341193}
@@ -20501,6 +20547,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0c7305394d3ea34e959af8cef7dc838, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  swordSlash: {fileID: 5571922064546703839, guid: f862b4de27e3f4241b7e5f986b386294, type: 3}
 --- !u!1 &2130821164
 GameObject:
   m_ObjectHideFlags: 0
@@ -20784,10 +20831,11 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -0.27383643, y: 0.05979632}
+    - - {x: -0.31547406, y: 0.10633249}
       - {x: -0.15324445, y: 0.1967326}
       - {x: -0.077820964, y: -0.22228657}
       - {x: -0.22552633, y: -0.28323275}
+      - {x: -0.30509028, y: -0.23540133}
       - {x: -0.3725152, y: -0.05793664}
 --- !u!114 &2147019572
 MonoBehaviour:
@@ -20801,6 +20849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0c7305394d3ea34e959af8cef7dc838, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  swordSlash: {fileID: 5571922064546703839, guid: f862b4de27e3f4241b7e5f986b386294, type: 3}
 --- !u!1001 &4991934942174630305
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20999,10 +21048,10 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 863281999}
     - target: {fileID: 5556999112954294311, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Mass
-      value: 1.3029315
+      value: 3.051261
       objectReference: {fileID: 0}
     - target: {fileID: 5556999112954294311, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Simulated

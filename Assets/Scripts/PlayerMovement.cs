@@ -87,7 +87,6 @@ public class PlayerMovement : MonoBehaviour
             swordAttackCounter = swordAttackTime;
             animator.SetBool("isSwordAttack", true);
             isSwordAttack = true;
-
         }
 
         if (isFireBall)
