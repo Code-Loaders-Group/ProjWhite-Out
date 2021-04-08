@@ -10,7 +10,7 @@ public class SlomanSpawner : MonoBehaviour
     void Start()
     {
         
-        InvokeRepeating("EnemySpawn", 1.0f, 3.0f);
+        InvokeRepeating("EnemySpawn", .5f, 4.0f);
     }
 
     // Update is called once per frame
