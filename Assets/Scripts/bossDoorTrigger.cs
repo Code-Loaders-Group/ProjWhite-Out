@@ -9,6 +9,7 @@ public class bossDoorTrigger : MonoBehaviour
     public GameObject bossSpawner2;
     public GameObject bossSpawner3;
     public GameObject bossSpawner4;
+    public GameObject theBoss;
     private void OnCollisionEnter2D(Collision2D collision)
     {
 
@@ -19,6 +20,7 @@ public class bossDoorTrigger : MonoBehaviour
             bossSpawner2.SetActive(true);
             bossSpawner3.SetActive(true);
             bossSpawner4.SetActive(true);
+            theBoss.SetActive(true);
             gameObject.SetActive(false);
         }
     }
