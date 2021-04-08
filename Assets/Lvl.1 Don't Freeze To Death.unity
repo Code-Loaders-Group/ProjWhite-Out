@@ -10111,7 +10111,7 @@ PrefabInstance:
     - target: {fileID: 5556999112954294310, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: target
       value: 
-      objectReference: {fileID: 1582083431}
+      objectReference: {fileID: 1059383044}
     - target: {fileID: 5556999112954294315, guid: 17b61c72621f952429e795ab3bce2ba2, type: 3}
       propertyPath: m_Name
       value: Sloman
@@ -14812,6 +14812,36 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8905742885903219873, guid: dd200b76aa5f6de438ee7bb1e6b05f10, type: 3}
   m_PrefabInstance: {fileID: 1429226099}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1059383043
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1059383044}
+  m_Layer: 0
+  m_Name: enemyAttackPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1059383044
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1059383043}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.041, y: -0.094, z: 1}
+  m_LocalScale: {x: 0.3030303, y: 0.3030303, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1582083431}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1075001534
 GameObject:
   m_ObjectHideFlags: 0
