@@ -1,9 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class BossScript : MonoBehaviour
 {
+    
+    public int maxHealth = 40;
+    public int currentHealth;
+
+    public healthbar healthbar;
+
     private float timeBtwShots;
     public float startTimeBtwShots;
 
@@ -13,6 +21,9 @@ public class BossScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        currentHealth = maxHealth;
+        healthbar.SetMaxHealth(maxHealth);
+
         player = GameObject.FindGameObjectWithTag("Player").transform;
 
         timeBtwShots = startTimeBtwShots;
@@ -31,4 +42,20 @@ public class BossScript : MonoBehaviour
             timeBtwShots -= Time.deltaTime;
         }
     }
+
+    void Damage()
+    {
+        if (gameObject.tag == "Player")
+        {
+            TakeDamage(1);
+        }
+    }
+    
+    void TakeDamage(int damage)
+    {
+        currentHealth -= damage;
+
+        healthbar.SetHealth(currentHealth);
+    }
+
 }

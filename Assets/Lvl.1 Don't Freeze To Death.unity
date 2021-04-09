@@ -7135,9 +7135,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07fabd0620bb4794db374bcc78ab067b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 6
-  currentHealth: 0
-  healthbar: {fileID: 0}
   explosion: {fileID: 5984153553414255892, guid: 3f5a5f854bdd41941bd0e7cb65971c93, type: 3}
 --- !u!61 &469406286
 BoxCollider2D:
@@ -8801,7 +8798,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &576040118
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8880,6 +8877,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02d8aaeddb2c3e74d8d4272093bec396, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxHealth: 40
+  currentHealth: 0
+  healthbar: {fileID: 0}
   startTimeBtwShots: 1
   projectile: {fileID: 370297574882741798, guid: 05d45fb58582fa84992e52c5de532e60, type: 3}
 --- !u!50 &576040121
@@ -13879,7 +13879,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -0.0025024414, y: 0.000011444092}
   m_SizeDelta: {x: 0.0049744, y: -0.0002}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -30339,9 +30339,9 @@ MonoBehaviour:
   m_HandleRect: {fileID: 0}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 40
+  m_MaxValue: 20
   m_WholeNumbers: 1
-  m_Value: 40
+  m_Value: 20
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
