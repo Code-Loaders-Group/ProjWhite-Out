@@ -8873,7 +8873,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &576040118
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8933,8 +8933,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 576040117}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -13.611257, y: -0.46073532, z: 3.9756682}
-  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_LocalPosition: {x: -12.53, y: -1.41, z: 3.9756682}
+  m_LocalScale: {x: 1.6, y: 1.6, z: 1}
   m_Children: []
   m_Father: {fileID: 2092876750}
   m_RootOrder: 36
@@ -18381,11 +18381,11 @@ GameObject:
   - component: {fileID: 1210111813}
   m_Layer: 5
   m_Name: bossHealthCanvas
-  m_TagString: Untagged
+  m_TagString: bossHealth
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1210111813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22929,11 +22929,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8676531502211126084, guid: 131bd670facbf47408e84eae4df70fe7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.28
+      value: -10.14
       objectReference: {fileID: 0}
     - target: {fileID: 8676531502211126084, guid: 131bd670facbf47408e84eae4df70fe7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.13
+      value: 6.42
       objectReference: {fileID: 0}
     - target: {fileID: 8676531502211126084, guid: 131bd670facbf47408e84eae4df70fe7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -23322,7 +23322,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}

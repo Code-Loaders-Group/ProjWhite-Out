@@ -47,16 +47,16 @@ public class BossScript : MonoBehaviour
         }
     }
 
-        //void Update()
-        //{
-            //if (timeBtwShots <= 0)
-            //{
-                //Instantiate(projectile, transform.position, Quaternion.identity);
-                //timeBtwShots = startTimeBtwShots;
-            //}
-            //else
-            //{
-               // timeBtwShots -= Time.deltaTime;
-            //}
-        //}
+        void Update()
+        {
+            if (timeBtwShots <= 0)
+            {
+                Instantiate(projectile, transform.position, Quaternion.identity);
+                timeBtwShots = startTimeBtwShots;
+            }
+            else
+            {
+               timeBtwShots -= Time.deltaTime;
+            }
+        }
 }
