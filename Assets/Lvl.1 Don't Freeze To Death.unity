@@ -3272,11 +3272,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 13.26
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 11.44
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -26982,13 +26982,13 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.18025209, y: 0.2183559}
-      - {x: -0.013688862, y: 0.26517597}
-      - {x: -0.18101762, y: 0.23067641}
+    - - {x: 0.24790286, y: 0.28600663}
+      - {x: -0.0006790119, y: 0.38226345}
+      - {x: -0.22004661, y: 0.30353105}
       - {x: -0.31298405, y: 0.15109268}
-      - {x: -0.20561276, y: -0.039726987}
-      - {x: 0.20348892, y: -0.059597168}
-      - {x: 0.29382756, y: 0.142879}
+      - {x: -0.18739903, y: -0.05013475}
+      - {x: 0.16185756, y: -0.051791202}
+      - {x: 0.3068374, y: 0.14027719}
 --- !u!114 &1891516317
 MonoBehaviour:
   m_ObjectHideFlags: 0
