@@ -10,7 +10,7 @@ public class BossScript : MonoBehaviour
     public int maxHealth = 20;
     public int currentHealth;
 
-    public HealthBar healthBar;
+    public BossHealth bossHealth;
 
     private float timeBtwShots;
     public float startTimeBtwShots;
@@ -19,14 +19,17 @@ public class BossScript : MonoBehaviour
 
     public GameObject projectile;
     // Start is called before the first frame update
+
+    
+
     void Start()
     {
-        currentHealth = maxHealth;
-        healthBar.SetMaxHealth(maxHealth);
-
         player = GameObject.FindGameObjectWithTag("Player").transform;
 
         timeBtwShots = startTimeBtwShots;
+
+        currentHealth = maxHealth;
+        bossHealth.SetMaxHealth(maxHealth);
     }
 
     // Update is called once per frame
@@ -54,7 +57,7 @@ public class BossScript : MonoBehaviour
     {
         currentHealth -= damage;
 
-        healthBar.SetHealth(currentHealth);
+        bossHealth.SetHealth(currentHealth);
     }
 
 }
