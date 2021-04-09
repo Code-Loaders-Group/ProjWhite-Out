@@ -3272,11 +3272,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.35
+      value: 25.7
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.18
+      value: 34.67
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7805,8 +7805,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.001122, y: 0.000013977}
-  m_SizeDelta: {x: 455.05, y: 35.571}
+  m_AnchoredPosition: {x: 0.0011525, y: 0.000013977}
+  m_SizeDelta: {x: 777.42, y: 54.722}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &498850554
 MonoBehaviour:
@@ -8798,7 +8798,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!212 &576040118
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8877,9 +8877,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02d8aaeddb2c3e74d8d4272093bec396, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 40
-  currentHealth: 0
-  healthbar: {fileID: 0}
+  maxHealth: 20
+  currentHealth: 20
+  healthBar: {fileID: 0}
   startTimeBtwShots: 1
   projectile: {fileID: 370297574882741798, guid: 05d45fb58582fa84992e52c5de532e60, type: 3}
 --- !u!50 &576040121
@@ -9055,7 +9055,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ba4a2e848887684aabd7e6449dfab52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slider: {fileID: 2134514374}
 --- !u!1001 &576332840
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13879,7 +13878,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: -0.0025024414, y: 0.000011444092}
   m_SizeDelta: {x: 0.0049744, y: -0.0002}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -30278,8 +30277,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.4678, y: 298.4724}
-  m_SizeDelta: {x: 455.0495, y: 35.5716}
+  m_AnchoredPosition: {x: -0.0000039637, y: -408}
+  m_SizeDelta: {x: 777.4133, y: 54.7218}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2134514373
 MonoBehaviour:
@@ -30293,7 +30292,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ba4a2e848887684aabd7e6449dfab52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slider: {fileID: 2134514374}
 --- !u!114 &2134514374
 MonoBehaviour:
   m_ObjectHideFlags: 0

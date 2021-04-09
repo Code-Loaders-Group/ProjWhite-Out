@@ -10,7 +10,7 @@ public class BossScript : MonoBehaviour
     public int maxHealth = 20;
     public int currentHealth;
 
-    public healthbar healthbar;
+    public HealthBar healthBar;
 
     private float timeBtwShots;
     public float startTimeBtwShots;
@@ -22,7 +22,7 @@ public class BossScript : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
-        healthbar.SetMaxHealth(maxHealth);
+        healthBar.SetMaxHealth(maxHealth);
 
         player = GameObject.FindGameObjectWithTag("Player").transform;
 
@@ -32,7 +32,13 @@ public class BossScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(timeBtwShots <= 0)
+        if (gameObject.tag == "Player" || gameObject.tag == "fireBall")
+        {
+            TakeDamage(5);
+        }
+
+
+        if (timeBtwShots <= 0)
         {
             Instantiate(projectile, transform.position, Quaternion.identity);
             timeBtwShots = startTimeBtwShots;
@@ -41,21 +47,14 @@ public class BossScript : MonoBehaviour
         {
             timeBtwShots -= Time.deltaTime;
         }
+
     }
 
-    void Damage()
-    {
-        if (gameObject.tag == "Player")
-        {
-            TakeDamage(1);
-        }
-    }
-    
     void TakeDamage(int damage)
     {
         currentHealth -= damage;
 
-        healthbar.SetHealth(currentHealth);
+        healthBar.SetHealth(currentHealth);
     }
 
 }
