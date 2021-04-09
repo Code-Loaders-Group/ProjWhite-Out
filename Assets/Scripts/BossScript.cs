@@ -2,15 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement;
 
 public class BossScript : MonoBehaviour
 {
     
-    public int maxHealth = 20;
-    public int currentHealth;
+    public float maxHealth = 20;
+    public float currentHealth;
 
-    public BossHealth bossHealth;
+    //public BossHealth bossHealth;
 
     private float timeBtwShots;
     public float startTimeBtwShots;
@@ -28,36 +28,35 @@ public class BossScript : MonoBehaviour
 
         timeBtwShots = startTimeBtwShots;
 
-        currentHealth = maxHealth;
-        bossHealth.SetMaxHealth(maxHealth);
     }
 
-    // Update is called once per frame
-    void Update()
+
+
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (gameObject.tag == "Player" || gameObject.tag == "fireBall")
-        {
-            TakeDamage(5);
-        }
 
-
-        if (timeBtwShots <= 0)
+        if (collision.gameObject.tag == "Player" || collision.gameObject.tag == "fireBall")
         {
-            Instantiate(projectile, transform.position, Quaternion.identity);
-            timeBtwShots = startTimeBtwShots;
-        }
-        else
-        {
-            timeBtwShots -= Time.deltaTime;
-        }
+            currentHealth = currentHealth - 1;
 
+            if (currentHealth <= 0)
+            {
+                Destroy(this.gameObject);
+                SceneManager.LoadScene("playerWins");
+            }
+        }
     }
 
-    void TakeDamage(int damage)
-    {
-        currentHealth -= damage;
-
-        bossHealth.SetHealth(currentHealth);
-    }
-
+        //void Update()
+        //{
+            //if (timeBtwShots <= 0)
+            //{
+                //Instantiate(projectile, transform.position, Quaternion.identity);
+                //timeBtwShots = startTimeBtwShots;
+            //}
+            //else
+            //{
+               // timeBtwShots -= Time.deltaTime;
+            //}
+        //}
 }

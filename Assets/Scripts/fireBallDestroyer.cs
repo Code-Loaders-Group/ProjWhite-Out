@@ -36,6 +36,7 @@ public class fireBallDestroyer : MonoBehaviour
             Destroy(this.gameObject);
             Instantiate(explosion, fireBall.transform.position, fireBall.transform.rotation);
         }
+              
         else
         {
             // for fires, spawners and anything that is not an enemy

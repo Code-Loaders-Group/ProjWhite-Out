@@ -22,8 +22,12 @@ public class swordColliders : MonoBehaviour
 
         if (other.gameObject.tag == "boss")
         {
-            Destroy(other.gameObject);
-            Instantiate(swordSlash, this.transform.position, other.transform.rotation);
+            Instantiate(swordSlash, this.transform.position, this.transform.rotation);
+        }
+
+        if (other.gameObject.tag == "projectile")
+        {
+            Instantiate(swordSlash, other.transform.position, other.transform.rotation);
         }
     }
 }

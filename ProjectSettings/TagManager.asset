@@ -12,6 +12,7 @@ TagManager:
   - walls
   - boss
   - projectile
+  - bossHealth
   layers:
   - Default
   - TransparentFX
