@@ -2306,7 +2306,7 @@ GameObject:
   - component: {fileID: 136134772}
   m_Layer: 0
   m_Name: Walls
-  m_TagString: Untagged
+  m_TagString: walls
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2448,7 +2448,7 @@ GameObject:
   - component: {fileID: 140386392}
   - component: {fileID: 140386391}
   - component: {fileID: 140386390}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: SpawnTrigger (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3272,11 +3272,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 2.07
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 1.73
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4539,7 +4539,7 @@ GameObject:
   - component: {fileID: 293199788}
   - component: {fileID: 293199787}
   - component: {fileID: 293199786}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: SpawnTrigger (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5654,7 +5654,7 @@ GameObject:
   - component: {fileID: 374708790}
   - component: {fileID: 374708789}
   - component: {fileID: 374708788}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: SpawnTrigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6879,7 +6879,7 @@ GameObject:
   - component: {fileID: 460637564}
   - component: {fileID: 460637566}
   - component: {fileID: 460637565}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: SpawnTrigger (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7148,7 +7148,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.09890866, y: 0.2118485}
+  m_Offset: {x: -0.09890866, y: 0.04924947}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -7159,7 +7159,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.87768054, y: 1.4467916}
+  m_Size: {x: 0.87768054, y: 1.1215936}
   m_EdgeRadius: 0
 --- !u!1 &469726858
 GameObject:
@@ -9123,11 +9123,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6262620816461096505, guid: 58ff47e1047d0c6439d324da76dae3a2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -27.25
+      value: -27.57
       objectReference: {fileID: 0}
     - target: {fileID: 6262620816461096505, guid: 58ff47e1047d0c6439d324da76dae3a2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.17
+      value: 7.48
       objectReference: {fileID: 0}
     - target: {fileID: 6262620816461096505, guid: 58ff47e1047d0c6439d324da76dae3a2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -9161,6 +9161,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7183595633045686991, guid: 58ff47e1047d0c6439d324da76dae3a2, type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7183595633045686991, guid: 58ff47e1047d0c6439d324da76dae3a2, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 7393331842908613277, guid: 58ff47e1047d0c6439d324da76dae3a2, type: 3}
       propertyPath: target
       value: 
@@ -9168,6 +9176,14 @@ PrefabInstance:
     - target: {fileID: 8863721787923303550, guid: 58ff47e1047d0c6439d324da76dae3a2, type: 3}
       propertyPath: m_Name
       value: SlowmanV2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8863721787923303550, guid: 58ff47e1047d0c6439d324da76dae3a2, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8863721787923303550, guid: 58ff47e1047d0c6439d324da76dae3a2, type: 3}
+      propertyPath: m_TagString
+      value: enemy
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6424839918613942543, guid: 58ff47e1047d0c6439d324da76dae3a2, type: 3}
@@ -10556,7 +10572,7 @@ GameObject:
   - component: {fileID: 644936489}
   - component: {fileID: 644936491}
   - component: {fileID: 644936490}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: SpawnTrigger (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17948,7 +17964,7 @@ GameObject:
   - component: {fileID: 1214624623}
   - component: {fileID: 1214624622}
   - component: {fileID: 1214624621}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: SpawnTrigger (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19453,7 +19469,7 @@ MonoBehaviour:
     Alex
     Maynard  -  Mike Deshane  -  Davin Malisani  -  Laura Amangeldiyeva'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 0}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -19719,7 +19735,7 @@ GameObject:
   - component: {fileID: 1321563918}
   - component: {fileID: 1321563920}
   - component: {fileID: 1321563919}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: SpawnTrigger (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23014,7 +23030,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.02836584, y: -0.18983896}
+  m_Offset: {x: -0.028365836, y: -0.16795164}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -23025,7 +23041,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.27582195, y: 0.2578039}
+  m_Size: {x: 0.27582195, y: 0.21402925}
   m_EdgeRadius: 0
 --- !u!50 &1582083427 stripped
 Rigidbody2D:
@@ -25788,7 +25804,7 @@ GameObject:
   - component: {fileID: 1794527441}
   - component: {fileID: 1794527440}
   - component: {fileID: 1794527439}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: BossRoomDoorTrigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2476939984152008072}
   - component: {fileID: 1491828272173267222}
   m_Layer: 0
-  m_Name: slowmen_explosion 1
+  m_Name: explosion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
