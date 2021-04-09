@@ -3272,11 +3272,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 25.9
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 33.6
       objectReference: {fileID: 0}
     - target: {fileID: 2902727573335463908, guid: 9e65af64c248f0d4cbf618437cd1401e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -30293,7 +30293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ba4a2e848887684aabd7e6449dfab52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slider: {fileID: 0}
+  slider: {fileID: 2134514374}
 --- !u!114 &2134514374
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30333,7 +30333,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 0
+  m_Interactable: 1
   m_TargetGraphic: {fileID: 0}
   m_FillRect: {fileID: 990871765}
   m_HandleRect: {fileID: 0}
