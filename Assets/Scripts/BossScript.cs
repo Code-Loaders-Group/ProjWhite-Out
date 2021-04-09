@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class BossScript : MonoBehaviour
 {
     
-    public int maxHealth = 40;
+    public int maxHealth = 20;
     public int currentHealth;
 
     public healthbar healthbar;
