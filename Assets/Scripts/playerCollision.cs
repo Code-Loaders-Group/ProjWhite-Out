@@ -28,9 +28,6 @@ public class playerCollision : MonoBehaviour
 
         if (other.gameObject.tag == "projectile")
         {
-            
-            
-
             Instantiate(explosion, other.transform.position, other.transform.rotation);
             
             

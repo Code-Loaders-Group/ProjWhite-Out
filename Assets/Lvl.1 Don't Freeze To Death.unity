@@ -8716,7 +8716,7 @@ GameObject:
   - component: {fileID: 576040122}
   - component: {fileID: 576040121}
   - component: {fileID: 576040123}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: The Mound
   m_TagString: boss
   m_Icon: {fileID: 0}
