@@ -19,5 +19,11 @@ public class swordColliders : MonoBehaviour
             // calling the sword animation here.
             Instantiate(swordSlash, other.transform.position, other.transform.rotation);
         }
+
+        if (other.gameObject.tag == "boss")
+        {
+            Destroy(other.gameObject);
+            Instantiate(swordSlash, this.transform.position, other.transform.rotation);
+        }
     }
 }
