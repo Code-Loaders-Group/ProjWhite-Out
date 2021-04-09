@@ -13,7 +13,7 @@ public class playerCollision : MonoBehaviour
     float timer = 0;
     public void Update()
     {
-        
+        // for delay between boss projectile and hitting the player
         timer += Time.deltaTime;
     }
     private void OnTriggerEnter2D(Collider2D other)
@@ -29,10 +29,8 @@ public class playerCollision : MonoBehaviour
         if (other.gameObject.tag == "projectile")
         {
             Instantiate(explosion, other.transform.position, other.transform.rotation);
-            
-            
             // delay between explosion and death so you can see the player explode
-            if (timer >= 1.0f)
+            if (timer >= 2)
             {
                 SceneManager.LoadScene("gameOver");
                 timer = 0;
