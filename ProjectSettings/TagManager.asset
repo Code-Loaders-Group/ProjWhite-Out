@@ -11,6 +11,7 @@ TagManager:
   - enemyCollider
   - walls
   - boss
+  - projectile
   layers:
   - Default
   - TransparentFX
