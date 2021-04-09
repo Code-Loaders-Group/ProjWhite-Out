@@ -10,6 +10,7 @@ TagManager:
   - restartText
   - enemyCollider
   - walls
+  - boss
   layers:
   - Default
   - TransparentFX

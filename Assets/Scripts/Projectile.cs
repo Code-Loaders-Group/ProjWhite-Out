@@ -8,6 +8,8 @@ public class Projectile : MonoBehaviour
 
     private Transform player;
     private Vector2 target;
+    
+    
 
     void Start()
     {
