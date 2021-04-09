@@ -5,11 +5,20 @@ using UnityEngine.SceneManagement;
 
 public class playerCollision : MonoBehaviour
 {
+    public int maxHealth = 6;
+    public int currentHealth;
+
+    public healthbar healthbar;
     // for when the boss projectile hits the player
     public GameObject explosion;
     // timer to see the player explode.
-    
-    
+
+    void Start()
+    {
+        currentHealth = maxHealth;
+        healthbar.SetMaxHealth(maxHealth);
+    }
+        
     float timer = 0;
     public void Update()
     {
@@ -18,7 +27,6 @@ public class playerCollision : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        
         // when enemy touches player
         if (other.gameObject.tag == "enemy" ||  other.gameObject.tag == "boss")
         {
@@ -38,5 +46,11 @@ public class playerCollision : MonoBehaviour
             
         }
 
+    }
+    void TakeDamage(int damage)
+    {
+        currentHealth -= damage;
+
+        healthbar.SetHealth(currentHealth);
     }
 }
