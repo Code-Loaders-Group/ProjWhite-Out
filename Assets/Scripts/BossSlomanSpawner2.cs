@@ -2,22 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SlomanSpawner : MonoBehaviour
+public class BossSlomanSpawner2 : MonoBehaviour
 {
     public GameObject Sloman, SlomanSpawn;
-    
+
     // Start is called before the first frame update
     void Start()
     {
-        
-        InvokeRepeating("EnemySpawn", .6f, 4.0f);
+
+        InvokeRepeating("EnemySpawn", 2.0f, 4.0f);
     }
 
     // Update is called once per frame
     void Update()
     {
-       
-        
+
+
     }
     void EnemySpawn()
     {

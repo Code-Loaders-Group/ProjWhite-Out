@@ -8885,7 +8885,7 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 147
+  Priority: 255
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -10118,6 +10118,7 @@ GameObject:
   - component: {fileID: 622661598}
   - component: {fileID: 622661602}
   - component: {fileID: 622661601}
+  - component: {fileID: 622661604}
   - component: {fileID: 622661600}
   - component: {fileID: 622661599}
   - component: {fileID: 622661603}
@@ -10266,7 +10267,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 622661597}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4178443ff895c854a802f38910296ade, type: 3}
   m_Name: 
@@ -10350,6 +10351,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.44229746, y: 0.28902185}
   m_EdgeRadius: 0
+--- !u!114 &622661604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 622661597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d17405c21ed41594286ad0591f083256, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sloman: {fileID: 1893257671}
+  SlomanSpawn: {fileID: 622661597}
 --- !u!1001 &633375459
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14305,6 +14320,7 @@ GameObject:
   - component: {fileID: 1026985354}
   - component: {fileID: 1026985358}
   - component: {fileID: 1026985357}
+  - component: {fileID: 1026985360}
   - component: {fileID: 1026985356}
   - component: {fileID: 1026985355}
   - component: {fileID: 1026985359}
@@ -14453,7 +14469,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1026985353}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4178443ff895c854a802f38910296ade, type: 3}
   m_Name: 
@@ -14537,6 +14553,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.45209378, y: 0.30625787}
   m_EdgeRadius: 0
+--- !u!114 &1026985360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1026985353}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4de55100c7c45439e365ddc2b1f531, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sloman: {fileID: 1893257671}
+  SlomanSpawn: {fileID: 1026985353}
 --- !u!1 &1037769976
 GameObject:
   m_ObjectHideFlags: 0
@@ -15821,6 +15851,7 @@ GameObject:
   - component: {fileID: 1115874328}
   - component: {fileID: 1115874332}
   - component: {fileID: 1115874331}
+  - component: {fileID: 1115874334}
   - component: {fileID: 1115874330}
   - component: {fileID: 1115874329}
   - component: {fileID: 1115874333}
@@ -15969,7 +16000,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1115874327}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4178443ff895c854a802f38910296ade, type: 3}
   m_Name: 
@@ -16053,6 +16084,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.46069843, y: 0.30249023}
   m_EdgeRadius: 0
+--- !u!114 &1115874334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1115874327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f91e737e9a1597746b5b7f57cde2cc7a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sloman: {fileID: 1893257671}
+  SlomanSpawn: {fileID: 1115874327}
 --- !u!1001 &1124123086
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17018,6 +17063,7 @@ GameObject:
   - component: {fileID: 1162958764}
   - component: {fileID: 1162958768}
   - component: {fileID: 1162958767}
+  - component: {fileID: 1162958770}
   - component: {fileID: 1162958766}
   - component: {fileID: 1162958765}
   - component: {fileID: 1162958769}
@@ -17166,7 +17212,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1162958763}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4178443ff895c854a802f38910296ade, type: 3}
   m_Name: 
@@ -17250,6 +17296,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.45570123, y: 0.28267413}
   m_EdgeRadius: 0
+--- !u!114 &1162958770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1162958763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd8d8e80f1a8d2f4aae6fb37e5d29b78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sloman: {fileID: 1893257671}
+  SlomanSpawn: {fileID: 1162958763}
 --- !u!1 &1167442063
 GameObject:
   m_ObjectHideFlags: 0
@@ -19578,7 +19638,7 @@ MonoBehaviour:
     Alex
     Maynard  -  Mike Deshane  -  Davin Malisani  -  Laura Amangeldiyeva'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 0}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -19642,7 +19702,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 184.39514, w: 44.44011}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1300693069
