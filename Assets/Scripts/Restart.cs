@@ -11,7 +11,7 @@ public class Restart : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
-        if (timer >= 6)
+        if (timer >= 2)
         {
             restartText.SetActive(true);
             if (Input.GetKey(KeyCode.R))
